@@ -1,2 +1,0 @@
-# survey
-Various survey documents
